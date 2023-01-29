@@ -56,7 +56,7 @@
 </template>
 
 <script>
-import MaRowOption from "@/components/UI/MaRowOption.vue";
+import MaRowOption from "@/components/MaRowOption.vue";
 import fuzzysort from "fuzzysort";
 import vClickOutside from "click-outside-vue3";
 
