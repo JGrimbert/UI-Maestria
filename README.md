@@ -8,5 +8,5 @@
     I'm mostly on the main project, and wanted to make some separation of concerns while building this repo. 
 </p>
 <p>
-    The goal is to have a well known and fast usable set of inputs to integrate in my Vue projects.
+    The goal is to have a well known and fast usable set of inputs to integrate quickly in my Vue projects.
 </p>
