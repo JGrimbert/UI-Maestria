@@ -1,24 +1,5 @@
 <p align="center">
     Simple UI developped for my personal use. 
     <br>
+    A lot of work to do before the thing could be shared - I'm mostly on the main project, and wanted to make some separation of concerns while building this repo. 
 </p>
-
-## Development
-
-1. Install dependencies
-
-```sh
-pnpm install
-```
-
-2. Run the project in development mode
-
-```
-pnpm dev
-```
-
-3. Lint the project
-
-```
-pnpm lint
-```
