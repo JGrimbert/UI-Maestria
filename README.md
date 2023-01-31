@@ -3,22 +3,10 @@
     <br>
 </p>
 
-## Development
-
-1. Install dependencies
-
-```sh
-pnpm install
-```
-
-2. Run the project in development mode
-
-```
-pnpm dev
-```
-
-3. Lint the project
-
-```
-pnpm lint
-```
+<p>
+    So much work to do before the thing could be usefull for another. 
+    I'm mostly on the main project, and wanted to make some separation of concerns while building this repo. 
+</p>
+<p>
+    The goal is to have a well known and fast usable set of inputs to integrate quickly in my Vue projects.
+</p>
