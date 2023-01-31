@@ -2,9 +2,9 @@
   <div>
   <label for="custom-input-number" class="ma-label ma-label-1 ">{{ input.label }}</label>
   <div class="flex items-center">
-    <div class="ma-item flex-none w-24">
-    <div class="flex flex-row h-8 rounded-lg relative bg-transparent mt-1 shadow-sm">
-      <button @click="decr" class="ma-input-range-button rounded-l">
+    <div class="ma-item ma-item-thin">
+    <div class="ma-item-buttons">
+      <button @click="decr" class="ma-input-range-button ma-input-range-button-left">
         <span class="m-auto font-thin">−</span>
       </button>
       <input
@@ -14,7 +14,7 @@
           name="custom-input-number"
           :value="input.value"
       />
-      <button @click="incr" class="ma-input-range-button rounded-r">
+      <button @click="incr" class="ma-input-range-button ma-input-range-button-right">
         <span class="m-auto font-thin">+</span>
       </button>
     </div>

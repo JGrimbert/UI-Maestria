@@ -15,7 +15,6 @@ module.exports = {
     '@vue/typescript/recommended',
     'plugin:vue/vue3-recommended',
     'plugin:jest/recommended',
-    'plugin:prettier/recommended',
   ],
 
   rules: {

@@ -1,6 +1,6 @@
 <template>
   <div
-      class="cursor-pointer w-full border-gray-100 border-b hover:bg-teal-100"
+      class="ma-dropdown-option"
       @click.native="e => click(e)"
   >
     <div class="flex w-full items-center p-2 pl-2 border-transparent border-l-2 relative hover:border-teal-100">
